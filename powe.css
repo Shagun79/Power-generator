@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: antiquewhite;
+}
+button{
+      padding: 10px 20px;
+      margin-left: 225px ;
+      margin-top: 20px;
+      background-color: aqua;
+      border: none;
+      border-radius: 10px;
+
+
+}
+input{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    margin-left: 130px ;
+    margin-top: 24px;
+    padding: 0px;
+
+}
+#digittwo{
+    margin-left: 10px;
+    padding: 0px;
+}
+ .box{
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid saddlebrown;
+    
+    width: 600px;
+    height:300px;
+ }
+ h1{
+    text-align: center;
+ }
+ h2{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+
+ }
+
+
+   
+
